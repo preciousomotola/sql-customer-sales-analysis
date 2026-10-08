@@ -65,6 +65,7 @@ sql-customer-sales-analysis/
 ├── Customer_Sales_Analysis.ipynb
 └── README.md
 
+
 ## Conclusion
 
 This project demonstrates the use of SQL to transform transactional data into actionable business insights.
