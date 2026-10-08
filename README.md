@@ -65,9 +65,7 @@ sql-customer-sales-analysis/
 ├── Customer_Sales_Analysis.ipynb
 └── README.md
 
-
 ## Conclusion
 
 This project demonstrates the use of SQL to transform transactional data into actionable business insights.
-
 The analysis covers customer behavior, product performance, regional revenue, customer segmentation, and monthly sales trends, providing practical recommendations that can support business decision-making.
